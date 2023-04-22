@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SbRex
-- 👀 I’m interested in AI image creation
+- 👀 I’m interested in game making and worldbuilding
 - 🌱 I’m currently learning to use Blender and Unreal Engine
 - 💞️ I’m looking to collaborate on Unreal Engine projects
 - 📫 How to reach me dldk@hotmail.it
