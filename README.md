@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SbRex
 - 👀 I’m interested in AI image creation
-- 🌱 I’m currently learning to use WSL and Colab
-- 💞️ I’m looking to collaborate on Disco Diffusion
+- 🌱 I’m currently learning to use Blender and Unreal Engine
+- 💞️ I’m looking to collaborate on Unreal Engine projects
 - 📫 How to reach me dldk@hotmail.it
 
 <!---
